@@ -1,0 +1,5 @@
+tutorial de como desplegar un proyecto en google cloud en app engine:
+https://towardsdatascience.com/how-to-deploy-a-flask-api-8d54dd8d8b8a
+
+como instalar gcloud cli en ubuntu:
+https://www.golinuxcloud.com/install-gcloud-on-linux/#google_vignette
